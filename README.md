@@ -1,11 +1,6 @@
 # project-1
 Repo for Project 1
 
-*Project Title:* Minnesota Severe Weather Trends
-
-Team Members:
-=======
-
 **Project Title: Minnesota Severe Weather Trends**
 
 **Team Members:**
